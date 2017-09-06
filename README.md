@@ -1,6 +1,6 @@
 # goru / গরু
 
-![goru](http://images.clipartpanda.com/cow-head-clipart-cow-head-only-small-eyes-hi.png)
+![goru](/goru.jpg?raw=true)
 
 A yet to be **cowsay** port in go.
 
